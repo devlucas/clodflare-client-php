@@ -1,0 +1,6 @@
+{
+    "name": "cloudflaresdk/test_composer",
+    "autoload" : {
+        "psr-0": { "cloudflaresdk\\": "src/" }
+    }
+}
