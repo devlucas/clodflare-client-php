@@ -1,4 +1,5 @@
-clodflare-client-php
+clodflare client PHP
 ====================
 
-Client written in php for integration projects with the CloudFlare API.
+This repository is not completed. We recommend that you wait until it is finalized.
+If really want to use it, you can see what has already been implemented in the [documentation](documentation).
